@@ -50,7 +50,7 @@ margin-top: -2px;
 }
 .row2 {
     /* background-color: aqua; */
-    margin-top: 4px;
+    /* margin-top: 4px; */
     height: 32px;
     display: flex;
     justify-content: space-between;
@@ -74,6 +74,7 @@ margin-top: -2px;
 .post i {
     /* color: deeppink; */
     font-size: 20px;
+    margin-top: 2px;
 }
 /* .post .fa-video {
     color: pink;
